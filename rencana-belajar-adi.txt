@@ -1,5 +1,6 @@
 rencana belajar adi
 machine learning
 python
+# machine learning dan deep learning
 AI
 laravel
